@@ -30,6 +30,7 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
 
 - 💬 I am very interested in talking about Computer Hardware/Software as well as Blockchain Tech
 - 📫 You can email me at danterobinson2000@gmail.com
+- 💻 You can find my Gists page here - https://gist.github.com/dante-robinson
 
 #### Development Tools and Version Control software
 <p>
