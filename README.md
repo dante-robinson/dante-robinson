@@ -42,7 +42,7 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
   </a>
   <a href="https://www.heroku.com/">
     <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=FFFFFF&style=for-the-badge" />   </a>
-  <a href="https://www.openbsd.org/">
+  <a href="https://atom.io/">
     <img src="https://img.shields.io/badge/Atom-66595C?logo=Atom&logoColor=FFFFFF&style=for-the-badge" />
   </a>
 </p>
