@@ -26,6 +26,12 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=FFFFFF&style=for-the-badge" />
   </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=FFFFFF&style=for-the-badge" />
+  </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=FFFFFF&style=for-the-badge" />
+  </a>
 </p>
 
 - 💬 I am very interested in talking about Computer Hardware/Software as well as Blockchain Tech
@@ -42,8 +48,8 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
   </a>
   <a href="https://www.heroku.com/">
     <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=FFFFFF&style=for-the-badge" />   </a>
-  <a href="https://atom.io/">
-    <img src="https://img.shields.io/badge/Atom-66595C?logo=Atom&logoColor=FFFFFF&style=for-the-badge" />
+  <a href="https://neovim.io/">
+    <img src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=FFFFFF&style=for-the-badge" />
   </a>
 </p>
 
