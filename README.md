@@ -4,39 +4,41 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
 
 - 🔭 I’m currently working on my own test projects and learning
 - 🌱 I’m currently learning/using<br>
-<p>
-  <a href="https://soliditylang.org/">
-    <img src="https://img.shields.io/badge/Solidity-363636?logo=Solidity&logoColor=FFFFFF&style=for-the-badge" />
+
+  <a href="https://soliditylang.org/"  >
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width=42 height=42 />
   </a>
-    <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=FFFFFF&style=for-the-badge" />
+  <a href="https://reactjs.org/">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=42 height=42 />
   </a>
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=FFFFFF&style=for-the-badge" />   </a>
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=42 height=42 />
+  </a>
   <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000000&style=for-the-badge" />
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=42 height=42 />
   </a>
   <a href="https://html.spec.whatwg.org/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=FFFFFF&style=for-the-badge" />
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=42 height=42 />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=FFFFFF&style=for-the-badge" />
-  </a>
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=42 height=42 />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=FFFFFF&style=for-the-badge" />
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=42 height=42 />
   </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=FFFFFF&style=for-the-badge" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=42 height=42 />
   </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=FFFFFF&style=for-the-badge" />
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=42 height=42 />
   </a>
-</p>
 
+  <br>
+  <br>
 - 💬 I am very interested in talking about Computer Hardware/Software as well as Blockchain Tech
 - 📫 You can email me at danterobinson2000@gmail.com
 - 💻 I post guides on my gists page here - https://gist.github.com/dante-robinson
+
 
 #### Development Tools and Version Control software
 <p>
@@ -47,7 +49,8 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=FFFFFF&style=for-the-badge" />
   </a>
   <a href="https://www.heroku.com/">
-    <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=FFFFFF&style=for-the-badge" />   </a>
+    <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=FFFFFF&style=for-the-badge" />
+  </a>
   <a href="https://neovim.io/">
     <img src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=FFFFFF&style=for-the-badge" />
   </a>
@@ -62,7 +65,8 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
     <img src="https://img.shields.io/badge/macOS-000000?logo=Apple&logoColor=FFFFFF&style=for-the-badge" />
   </a>
   <a href="https://www.microsoft.com/en-us/windows?r=1">
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=FFFFFF&style=for-the-badge" />   </a>
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=FFFFFF&style=for-the-badge" />
+  </a>
   <a href="https://www.openbsd.org/">
     <img src="https://img.shields.io/badge/OpenBSD-F2CA30?logo=OpenBSD&logoColor=000000&style=for-the-badge" />
   </a>
@@ -70,6 +74,3 @@ I'm a self taught developer interested in Smart Contracts and Full Stack Develop
 
 <!--- Github commit stats --->
 <img src="https://github-readme-stats.vercel.app/api?username=dante-robinson&count_private=true&theme=tokyonight&show_icons=true" />
-
-<!--- Github top langauges used --->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-robinson&layout=compact&theme=tokyonight" />
