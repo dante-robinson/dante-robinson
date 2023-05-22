@@ -36,7 +36,7 @@ I'm a self taught developer interested in Operating Systems and Full Stack Devel
   <br>
   <br>
 - 💬 I am very interested in talking about Computer Hardware/Software as well as Blockchain Tech (Mainly Bitcoin)
-- 📫 You can email me at danterobinson2000@gmail.com
+- 📫 You can email me at danterobinson@tuta.io
 - 💻 I post guides on my gists page here - https://gist.github.com/dante-robinson
 
 
