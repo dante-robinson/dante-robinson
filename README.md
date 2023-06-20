@@ -5,9 +5,6 @@ I'm a self taught developer interested in Operating Systems and Full Stack Devel
 - 🔭 I’m currently working on my own test projects and learning
 - 🌱 I’m currently learning/using<br>
 
-  <a href="https://soliditylang.org/" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width=42 height=42 />
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=42 height=42 />
   </a>
